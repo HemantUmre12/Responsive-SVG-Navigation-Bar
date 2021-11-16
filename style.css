@@ -120,7 +120,7 @@ svg{
     width: 70%;
 }
 
-/* Small devices */
+/* ! Small devices */
 
 @media only screen and (max-width: 600px){
     .navbar {
@@ -155,4 +155,3 @@ svg{
 
 }
 
-/* Tic Toe */
